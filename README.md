@@ -34,5 +34,3 @@ Listas
 •	.clear(): limpa a lista.
 
 •	Collections: https://kotlinlang.org/docs/collections-overview.html#map.
-
-•	Desafio: quando clicar no botão, mostrar uma listad e presentes.
