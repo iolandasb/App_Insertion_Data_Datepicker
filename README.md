@@ -11,17 +11,15 @@ Listas
 
 •	Listas:
 
-  o	Tipos:
-  
-    -	Mutáveis
-    
+  -	Tipos:
+    - Mutáveis
     -	Imutáveis: setOf, listOf, etc são imutáveis, são listas apenas para visualização. Para torna-las mutáveis, é necessário colocar por exemplo dessa forma: “mutableListOf”. Para aplicar esses comandos é necessário fazer isso. Se a lista é vazia, o comando exige que você indique o tipo de elemento de dentro (ex: “<String>”).
     
-  o	List: coleção (collection) que não permite duplicação.
+  -	List: coleção (collection) que não permite duplicação.
   
-  o	Set: coleção (collection) que não permite valores duplicados.
+  -	Set: coleção (collection) que não permite valores duplicados.
   
-  o	Map: comporta chaves e valores.  Exemplo: “mapOf(matricula 1 to “Daniela”, matricula 2 to “Mateus”). “matricula” é a chave e os nomes os valores. É usado mais pontualmente.
+  -	Map: comporta chaves e valores.  Exemplo: “mapOf(matricula 1 to “Daniela”, matricula 2 to “Mateus”). “matricula” é a chave e os nomes os valores. É usado mais pontualmente.
 
 •	visibility: altera a visibilidade.
 
