@@ -21,8 +21,6 @@ Listas
   
   -	Map: comporta chaves e valores.  Exemplo: “mapOf(matricula 1 to “Daniela”, matricula 2 to “Mateus”). “matricula” é a chave e os nomes os valores. É usado mais pontualmente.
 
-•	visibility: altera a visibilidade.
-
 •	view: torna visível ao usuário.
 
 •	(nome da variável).visibility = View.VISIBLE: torna o que tem dentro da variável visível na tela do app.
